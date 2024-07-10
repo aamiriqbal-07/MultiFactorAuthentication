@@ -1,0 +1,3 @@
+org/example/mfademo/model/User.class
+org/example/mfademo/dto/LoginRequest.class
+org/example/mfademo/repository/UserRepository.class
